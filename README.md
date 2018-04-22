@@ -1,2 +1,2 @@
-# QLKS
-# QUANLIKHACHSAN
+# Restaurant Management Application
+Description
