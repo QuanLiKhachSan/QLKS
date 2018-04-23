@@ -3,8 +3,8 @@
 # Author:
   -  Team: SE104.
   - Member:
-    1. Võ Nguyên Quân.
-    2. Nguyễn Minh Thiện.
+    >- Võ Nguyên Quân - 14520737.
+    >- Nguyễn Minh Thiện - 14520868.
   - Specialist: Computer Engineering.
 # Description
   >- This application has a login system for staffs, helps users to manage revenue information and important customer information in a safe, secure.
