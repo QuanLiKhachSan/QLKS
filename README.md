@@ -7,11 +7,11 @@
     >- Nguyễn Minh Thiện - 14520868.
   - Specialist: Computer Engineering.
 # Description
-  >- This application has a login system for staffs, helps users to manage revenue information and important customer information in a safe, secure.
-  >- Long-term storage, quick search for easy tracking.
-  >- Applied to the management of customers, rooms, equipments, services and staffs.
-  >- - Start day: 2/3/2018.
-  >- - Intend ending day: 2/6/2018.
+  - This application has a login system for staffs, helps users to manage revenue information and important customer information in a safe, secure.
+  - Long-term storage, quick search for easy tracking.
+  - Applied to the management of customers, rooms, equipments, services and staffs.
+  - - Start day: 2/3/2018.
+  - - Intend ending day: 2/6/2018.
 # Function
   - **Login**
   - **Rooms management**
