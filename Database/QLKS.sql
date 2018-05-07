@@ -204,7 +204,7 @@ INSERT INTO NHANVIEN VALUES('NV01','Do Nghiem Phung','1987',N'Nữ',N'Quản lý
 INSERT INTO NHANVIEN VALUES('NV02','Tran Nam Son','1989',N'Nam',N'Quản lý', 3123412, N'Quảng Ngãi', N'ok',123)
 INSERT INTO NHANVIEN VALUES('NV03','Mai Thanh Danh','1991',N'Nam',N'Lễ Tân', 6542312, N'Đồng Nai',  N'ok',123)
 INSERT INTO NHANVIEN VALUES('NV04','Tran Doan Hung','1996',N'Không rõ',N'Lễ Tân', 76423432, N'Nha Trang',  N'ok',123)
-INSERT INTO NHANVIEN VALUES('NV05','Nguyen Minh Tien','1995',N'Nam',N'Lễ Tân', 4562234, N'Nghệ An',  N'ok',123)
+INSERT INTO NHANVIEN VALUES('NV05','Nguyen Minh Thien','1996',N'Nam',N'Lễ Tân', 14520868, N'Đồng Nai',  N'ok',123)
 INSERT INTO NHANVIEN VALUES('NV06','Le Thi Tran','1986',N'Nữ',N'Lễ Tân', 234252, 'Gia Lai', N'ok',123)
 
 
